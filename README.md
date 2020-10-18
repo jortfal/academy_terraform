@@ -1,14 +1,16 @@
 # Jortfal's Academy: Terraform   
 
 ![Release Date](https://img.shields.io/github/release-date/jortfal/academy_terraform)
+![GitHub license](https://img.shields.io/github/license/jortfal/academy_terraform)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green)
 ![Maintainer](https://img.shields.io/badge/maintainer-jortfal-green)
+
 ![Twitch Status](https://img.shields.io/twitch/status/jortfal)
 
 Aprende Terraform con Jortfal, `José Manuel Ortega Falcón`, el estratega tecnológico 
 
 
-![Twitch](https://img.shields.io/badge/Twitch-white?style=social&logo=Twitch&link=https://www.twitch.tv/jortfal&link=https://www.twitch.tv/jortfal)
+![](https://img.shields.io/badge/Twitch-white?style=social&logo=Twitch&link=https://www.twitch.tv/jortfal&link=https://www.twitch.tv/jortfal)
 ![YouTube](https://img.shields.io/badge/YouTube-white?style=social&logo=Youtube)
 ![Twitter](https://img.shields.io/badge/Twitter-white?style=social&logo=Twitter)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=social&logo=Linkedin)
@@ -25,7 +27,7 @@ Aprende Terraform con Jortfal, `José Manuel Ortega Falcón`, el estratega tecno
 
 # Documentation
 
-* [Terraform Glossary](https://registry.terraform.io/)
+* [Terraform Glossary](https://www.terraform.io/docs/glossary.html)
 * [Terraform Commands (CLI)](https://www.terraform.io/docs/commands/index.html)
 * [Expressions](https://www.terraform.io/docs/configuration/expressions.html)
     * [Types and Values](https://www.terraform.io/docs/configuration/expressions.html#types-and-values)
